@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dzhumadilov and 
+- 👋 Hi, I’m @dzhumadilov and I'm Java Software Engineer at JKS "[First Credit Bureau](https://www.1cb.kz/)"
 - 👀 I’m interested in Java programming and android mobile app development
 - 🌱 I’m currently learning new programming languages sush as Golang, Dart 
 <!--- 
