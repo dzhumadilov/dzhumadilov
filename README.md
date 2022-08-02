@@ -28,7 +28,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="MsSQL"  alt="microsoftsqlserver" width="40" height="40"/>&nbsp;
 
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman"  alt="Postman" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
+<img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-original-wordmark.svg" title="Gitlab"  alt="Gitlab" width="40" height="40"/>&nbsp;  
 </p>
 
 ---
