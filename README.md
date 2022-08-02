@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dzhumadilov
+- 👋 Hi, I’m @dzhumadilov and 
 - 👀 I’m interested in Java programming and android mobile app development
 - 🌱 I’m currently learning new programming languages sush as Golang, Dart 
 <!--- 
@@ -10,7 +10,7 @@
 
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/vue-original-wordmark.svg" title="React" alt="Vue" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
